@@ -57,7 +57,7 @@ Proyecto desarrollado de forma colaborativa durante el programa Codo a Codo 4.0,
 ---
 
 > 💡 **Datos de prueba para el login:**  
-> - **Usuarios permitidos:** `jime`, `marcos`, `luciano`, `maga`, `miche`  
+> - **Usuarios permitidos:** `jime`, `marcos`, `luciano`. 
 > - **Contraseñas:** `000` (para jime), `123` (para marcos), `456` (para luciano)
  
 
