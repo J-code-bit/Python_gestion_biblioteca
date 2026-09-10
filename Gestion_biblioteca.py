@@ -1,4 +1,4 @@
-5#Este es un programa de gestión de biblioteca. Se ingresa con usuario y contraseña,
+#Este es un programa de gestión de biblioteca. Se ingresa con usuario y contraseña,
 #habiendo tres intentos como límite.
 #Se puede ver el listado de los libros existentes,
 #buscar un libro por título o por ID, agregar, editar o eliminar una obra.
